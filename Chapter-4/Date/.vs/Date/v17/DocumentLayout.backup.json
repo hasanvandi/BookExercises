@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-4\\Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA62E70-CB44-4D5B-AD23-984F1C41E4D7}|Date\\Date.csproj|e:\\git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\bookexercises\\chapter-4\\date\\date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA62E70-CB44-4D5B-AD23-984F1C41E4D7}|Date\\Date.csproj|solutionrelative:date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA62E70-CB44-4D5B-AD23-984F1C41E4D7}|Date\\Date.csproj|e:\\git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\bookexercises\\chapter-4\\date\\date\\dateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA62E70-CB44-4D5B-AD23-984F1C41E4D7}|Date\\Date.csproj|solutionrelative:date\\dateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateClass.cs",
+              "DocumentMoniker": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-4\\Date\\Date\\DateClass.cs",
+              "RelativeDocumentMoniker": "Date\\DateClass.cs",
+              "ToolTip": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-4\\Date\\Date\\DateClass.cs",
+              "RelativeToolTip": "Date\\DateClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:31:53.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-4\\Date\\Date\\Program.cs",
+              "RelativeDocumentMoniker": "Date\\Program.cs",
+              "ToolTip": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-4\\Date\\Date\\Program.cs*",
+              "RelativeToolTip": "Date\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:31:39.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
