@@ -1,0 +1,15 @@
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\bin\Debug\net8.0\User-Input.exe
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\bin\Debug\net8.0\User-Input.deps.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\bin\Debug\net8.0\User-Input.runtimeconfig.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\bin\Debug\net8.0\User-Input.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\bin\Debug\net8.0\User-Input.pdb
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.AssemblyInfoInputs.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.AssemblyInfo.cs
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.csproj.CoreCompileInputs.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.sourcelink.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\refint\User-Input.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.pdb
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\User-Input.genruntimeconfig.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\User-Input\User-Input\obj\Debug\net8.0\ref\User-Input.dll
