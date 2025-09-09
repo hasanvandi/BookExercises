@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\UserInput\\User-Input\\User-Input.csproj": {}
+    "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\Exersice--3-32\\Exersice--3-32\\Exersice-3-32.csproj": {}
   },
   "projects": {
-    "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\UserInput\\User-Input\\User-Input.csproj": {
+    "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\Exersice--3-32\\Exersice--3-32\\Exersice-3-32.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\UserInput\\User-Input\\User-Input.csproj",
-        "projectName": "User-Input",
-        "projectPath": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\UserInput\\User-Input\\User-Input.csproj",
+        "projectUniqueName": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\Exersice--3-32\\Exersice--3-32\\Exersice-3-32.csproj",
+        "projectName": "Exersice-3-32",
+        "projectPath": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\Exersice--3-32\\Exersice--3-32\\Exersice-3-32.csproj",
         "packagesPath": "C:\\Users\\Digitalbase.ir\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\UserInput\\User-Input\\obj\\",
+        "outputPath": "E:\\Git\\دایتل سی شارپ\\BookExercises\\Chapter-3\\Exersice--3-32\\Exersice--3-32\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\User-Input\\",
+  "WorkspaceRootPath": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\UserInput\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A19F458-BBFE-4337-A8A7-426805CF912D}|User-Input\\User-Input.csproj|e:\\git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\bookexercises\\chapter-3\\user-input\\user-input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A19F458-BBFE-4337-A8A7-426805CF912D}|User-Input\\User-Input.csproj|e:\\git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\bookexercises\\chapter-3\\userinput\\user-input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A19F458-BBFE-4337-A8A7-426805CF912D}|User-Input\\User-Input.csproj|solutionrelative:user-input\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\User-Input\\User-Input\\Program.cs",
+              "DocumentMoniker": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\UserInput\\User-Input\\Program.cs",
               "RelativeDocumentMoniker": "User-Input\\Program.cs",
-              "ToolTip": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\User-Input\\User-Input\\Program.cs",
+              "ToolTip": "E:\\Git\\\u062F\u0627\u06CC\u062A\u0644 \u0633\u06CC \u0634\u0627\u0631\u067E\\BookExercises\\Chapter-3\\UserInput\\User-Input\\Program.cs",
               "RelativeToolTip": "User-Input\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T09:29:14.233Z",
               "EditorCaption": ""

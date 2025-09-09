@@ -1,0 +1,15 @@
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\bin\Debug\net8.0\Exersice--3-32.exe
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\bin\Debug\net8.0\Exersice--3-32.deps.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\bin\Debug\net8.0\Exersice--3-32.runtimeconfig.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\bin\Debug\net8.0\Exersice--3-32.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\bin\Debug\net8.0\Exersice--3-32.pdb
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.AssemblyInfoInputs.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.AssemblyInfo.cs
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.csproj.CoreCompileInputs.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.sourcelink.json
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\refint\Exersice--3-32.dll
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.pdb
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\Exersice--3-32.genruntimeconfig.cache
+E:\Git\دایتل سی شارپ\BookExercises\Chapter-3\Exersice--3-32\Exersice--3-32\obj\Debug\net8.0\ref\Exersice--3-32.dll
